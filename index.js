@@ -1,2 +1,2 @@
-let x = 0;
-conlose.log(x);
+let x = 0 
+console.log(x)
